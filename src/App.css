@@ -1,6 +1,8 @@
 .App {
   text-align: center;
+  padding-top: 10%;
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +37,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.new-form-button{
+  margin-bottom: 40px;
+}
+.form-container{
+  margin-top: 25px;
+  background-color: aliceblue;
+  padding:25px;
 }
